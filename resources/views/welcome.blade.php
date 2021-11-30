@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    ララベル表示
                 </div>
 
                 <div class="links">
