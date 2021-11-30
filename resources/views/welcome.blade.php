@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     ララベル表示
                 </div>
+                <a href="{{ route('sample') }}">
+                    DONEへ
+                </a>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
